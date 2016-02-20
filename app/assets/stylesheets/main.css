@@ -1,3 +1,9 @@
+
+
+html { font-size: 100%; } 
+body { font-size: 1em;} 
+
+
 p {
     
     font-family : sans-serif;
@@ -39,13 +45,18 @@ p {
 	font-family:sans-serif;
 	
 }
+
+
+
 .intro_div p{
 	
 	position: absolute;
-	left: 12vw;
-	top: 40vh;
-	font-size: 9vmin;
-}
+	left: 10%;
+	top: 40%;
+	font-size: 300%;
+
+	}
+
 /* section 2 */
 
 hr {
@@ -210,10 +221,17 @@ hr {
 	
 	.link{
 		display:none;
+		
 	}
 	
-
+	.intro_div p{
 	
+	position: absolute;
+	left: 10%;
+	top: 40%;
+	font-size: 200%;
+
+	}
 }
 
 @media all and (min-width: 450px) {
@@ -223,6 +241,25 @@ hr {
 	}
 	
 
-	
 }
+
+@media all and (max-height: 350px) {
+	
+
+	
+	.intro_div p{
+	
+	position: absolute;
+	left: 10%;
+	top: 40%;
+	font-size: 200%;
+
+	}
+}
+
+
+
+
+
+
 
