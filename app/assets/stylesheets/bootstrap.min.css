@@ -4,7 +4,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -104,7 +104,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: "Nanum Gothic", monospace, monospace;
   font-size: 1em;
 }
 button,
@@ -1081,7 +1081,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Nanum Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -1091,7 +1091,7 @@ input,
 button,
 select,
 textarea {
-  font-family: inherit;
+  font-family: "Nanum Gothic", inherit;
   font-size: inherit;
   line-height: inherit;
 }
@@ -1183,7 +1183,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: "Nanum Gothic", inherit;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -1531,7 +1531,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: "Nanum Gothic", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 code {
   padding: 2px 4px;
@@ -4329,7 +4329,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-top: 10px;
   padding-bottom: 10px;
   line-height: 20px;
-  font-family: sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
   font-weight: bold;
   font-size: 17px;
 }
@@ -4517,14 +4517,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333;
+  color: #F39800;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #555;
-  background-color: #e7e7e7;
+  color: #fff;
+  background-color: #555;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -5995,7 +5995,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Nanum Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: normal;
@@ -6114,7 +6114,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Nanum Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: normal;
@@ -6383,7 +6383,7 @@ button.close {
 .carousel-control .icon-next {
   width: 20px;
   height: 20px;
-  font-family: serif;
+  font-family: "Nanum Gothic", serif;
   line-height: 1;
 }
 .carousel-control .icon-prev:before {

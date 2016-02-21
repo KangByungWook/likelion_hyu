@@ -5,30 +5,25 @@ body { font-size: 1em;}
 
 
 p {
-    
-    font-family : sans-serif;
+    font-family : "Nanum Gothic";
 }
 
 /* nav */
 
-
 #nav_logo { 
+	height: 25px;
     float: left;
-    width:230px;
 }
 
 #nav_list {
-    
-    float: right;
-    
-    
+    float: right;    
 }
 
 /* section 1 */
-#section1{
-    
+#section1{ 
     padding-top: 70px;
 }
+
 
 #section1 p {
     padding-top: 10px;
@@ -36,25 +31,18 @@ p {
 }
 
 .section1_text {
-    display: block;
-    
+    display: block;  
 }
 
-.intro_box{
-	
-	font-family:sans-serif;
-	
+.intro_box {	
+	font-family:"Nanum Gothic";	
 }
-
-
 
 .intro_div p{
-	
 	position: absolute;
-	left: 10%;
-	top: 40%;
+	left: 15%;
+	top: 70%;
 	font-size: 300%;
-
 	}
 
 /* section 2 */
@@ -80,7 +68,7 @@ hr {
 .section2_textbox{
     
     margin-top: 20px;
-    font-family: sans-serif;
+    font-family: "Nanum Gothic";
     font-size: 13px;
 
     
@@ -106,7 +94,7 @@ hr {
 	display:inline-block;
 	cursor:pointer;
 	color:#666666;
-	font-family:sans-serif;
+	font-family:"Nanum Gothic";
 	font-size: 17px;
 	font-weight:bold;
 	padding:7px 20px;
@@ -155,7 +143,7 @@ hr {
 	display:inline-block;
 	cursor:pointer;
 	color:black;
-	font-family:sans-serif;
+	font-family:"Nanum Gothic";
 	font-size:20px;
 	font-weight:bold;
     padding:10px 30px;
@@ -173,7 +161,7 @@ hr {
 
 #contact p{
     
-    font-family:sans-serif;
+    font-family:"Nanum Gothic";
     font-size:27px;
 }
 
@@ -203,7 +191,7 @@ hr {
 
 .link td {
 	
-	font-family : sans-serif;
+	font-family : "Nanum Gothic";
 	
 	
 	padding-left: 10px;
@@ -211,7 +199,7 @@ hr {
 }
 
 .link2 td{
-	font-family: sans-serif;
+	font-family: "Nanum Gothic";
 	padding-left: 10px;
 }
 
@@ -228,7 +216,7 @@ hr {
 	
 	position: absolute;
 	left: 10%;
-	top: 40%;
+	top: 70%;
 	font-size: 200%;
 
 	}
@@ -256,10 +244,3 @@ hr {
 
 	}
 }
-
-
-
-
-
-
-
